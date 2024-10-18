@@ -1,0 +1,58 @@
+('https://fonts.googleapis.com/css2?family=Lora:wght@400;700&family=Nunito:wght@400;600&display=swap');
+
+body {
+    font-family: 'Nunito', Verdana, sans-serif;
+    background-color: #fefefe;
+    color: #333;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #f8e1e9;
+    padding: 20px;
+    text-align: center;
+    border-bottom: 2px solid #e09ab2;
+}
+
+h1 {
+    font-family: 'Lora', Georgia, serif;
+    color: #b34471;
+    font-size: 2.5em;
+    margin: 0;
+}
+
+h2 {
+    font-family: 'Lora', Georgia, serif;
+    color: #4a2c2a;
+    font-size: 2em;
+    margin-bottom: 10px;
+    border-bottom: 2px solid #e09ab2;
+    padding-bottom: 5px;
+}
+
+h3 {
+    font-family: 'Nunito', Verdana, sans-serif;
+    color: #333;
+    font-size: 1.5em;
+    margin-top: 20px;
+}
+
+section {
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: #fff;
+    border: 1px solid #e8e8e8;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+    border-radius: 10px;
+}
+
+footer {
+    background-color: #f8e1e9;
+    padding: 10px;
+    text-align: center;
+    color: #4a2c2a;
+    border-top: 2px solid #e09ab2;
+    font-size: 0.9em;
+}
